@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "all.js",
+  "scripts": {
+    "start": "node all.js",
+    "1.1": "node --watch ./1/1/index.mjs",
+    "1.2": "node --watch ./1/2/index.mjs"
+  },
+  "author": "Merlin Scheurer",
+  "license": "MIT"
+}
