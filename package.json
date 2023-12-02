@@ -6,7 +6,9 @@
   "main": "all.js",
   "scripts": {
     "1.1": "node --watch ./1/1/index.mjs",
-    "1.2": "node --watch ./1/2/index.mjs"
+    "1.2": "node --watch ./1/2/index.mjs",
+    "2.1": "node --watch ./2/1/index.mjs",
+    "2.2": "node --watch ./2/2/index.mjs"
   },
   "author": "Merlin Scheurer",
   "license": "MIT"
