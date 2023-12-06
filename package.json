@@ -14,7 +14,9 @@
     "4.1": "node --watch ./4/1/index.mjs",
     "4.2": "node --watch ./4/2/index.mjs",
     "5.1": "node --watch ./5/1/index.mjs",
-    "5.2": "node --watch ./5/2/index.mjs"
+    "5.2": "node --watch ./5/2/index.mjs",
+    "6.1": "node --watch ./6/1/index.mjs",
+    "6.2": "node --watch ./6/2/index.mjs"
   },
   "author": "Merlin Scheurer",
   "license": "MIT"
