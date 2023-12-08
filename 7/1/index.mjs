@@ -171,10 +171,6 @@ const checkOnePair = (cards) => {
     }
   });
 
-  const isOne = hasOnePair && !hasTwoPair;
-
-  isOne;
-
   return hasOnePair && !hasTwoPair;
 };
 
@@ -192,7 +188,6 @@ const checkHighCard = (cards) => {
   }
 
   const keys = Object.keys(character);
-  keys;
 
   const filteredKeys = keys.filter((key) => {
     return character[key] === 1;
