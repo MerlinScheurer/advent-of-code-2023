@@ -155,8 +155,6 @@ const checkOnePair = (cards) => {
     character[card] += 1;
   }
 
-  character;
-
   const keys = Object.keys(character);
 
   let hasOnePair = false;
