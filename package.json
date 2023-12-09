@@ -20,7 +20,9 @@
     "7.1": "node --watch ./7/1/index.mjs",
     "7.2": "node --watch ./7/2/index.mjs",
     "8.1": "node --watch ./8/1/index.mjs",
-    "8.2": "node --watch ./8/2/index.mjs"
+    "8.2": "node --watch ./8/2/index.mjs",
+    "9.1": "node --watch ./9/1/index.mjs",
+    "9.2": "node --watch ./9/2/index.mjs"
   },
   "author": "Merlin Scheurer",
   "license": "MIT"
