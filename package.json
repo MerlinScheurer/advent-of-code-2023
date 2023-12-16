@@ -30,7 +30,9 @@
     "12.1": "node --watch ./12/1/index.mjs",
     "12.2": "node --watch ./12/2/index.mjs",
     "13.1": "node --watch ./13/1/index.mjs",
-    "13.2": "node --watch ./13/2/index.mjs"
+    "13.2": "node --watch ./13/2/index.mjs",
+    "14.1": "node --watch ./14/1/index.mjs",
+    "14.2": "node --watch ./14/2/index.mjs"
   },
   "author": "Merlin Scheurer",
   "license": "MIT"
